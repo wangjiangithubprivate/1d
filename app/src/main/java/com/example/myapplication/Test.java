@@ -6,13 +6,5 @@ package com.example.myapplication;
  */
 public class Test {
 
-    // 测试1
-    //测试3
-
- //测试2
-    //测试5
-
-    //测试4
-    //测试5
-    //测试6
+   //测试2
 }
